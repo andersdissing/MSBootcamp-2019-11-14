@@ -5,17 +5,6 @@
 Here you find the demos, hands-on labs and presentations from our event in the Danish SharePoint & Office User group: https://www.meetup.com/Danish-SharePoint-And-Office365-User-Group/events/265218215/
 
 ## Agenda
-
-- Velkomst, 9.00 - 9.15, 15' min (Anders)
-- Microsoft Adaptive Cards ink hands-on labs, 9.15 - 11.00, 105' min (Anders)
-- Pause, 11.00 - 11.15, 15' min
-- Office Add-ins (Word) 11.15 - 12.00, 45 min (Anders):
-- Lunch, 12.00 - 12.45, 45 min
-- Office Add-ins (Word/Excel) ink hans-on labs 12.45 - 14.00, 105' min (Anders):
-- Pause med Survey og SWAG, 14.00 - 14.30, 30' min
-- Microsoft Graph / SharePoint Framework, 14.30 - 16.15, 105' min (Anders) 
-- Afslutning, 16.15 - 16.45, 30' min
-
 - 9:30 Velkommen
 - 9:45: Microsoft Identity og hvordan Microsoft's Identity platform benyttes til identifikation af brugere applikationer 
 - 11:30: Frokost
@@ -38,7 +27,7 @@ See https://docs.microsoft.com/da-dk/sharepoint/dev/spfx/set-up-your-development
 - [SharePoint Yeoman Generator](https://www.npmjs.com/package/@microsoft/generator-sharepoint): (Version 1.9.1): The SharePoint Yeoman Generator is used to create the SPFX webparts.
   - Installers via kommandoen: 
     npm install -g @microsoft/generator-sharepoint
-    
+
 - Sikre at App Catalog er oprettet på Office 365 tenant, (Step 1 af <https://docs.microsoft.com/en-us/sharepoint/use-app-catalog>)
 
 ### Disclaimer
