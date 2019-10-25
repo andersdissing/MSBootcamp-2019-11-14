@@ -19,11 +19,7 @@ Here you find the demos, hands-on labs and presentations from our event in the D
 - Office 365 developer subscription, kan finds her <https://docs.microsoft.com/en-us/office/developer-program/office-365-developer-program>
 - [Visual Studio Code](https://code.visualstudio.com/).
 - [Node.js](https://nodejs.org/) LTS: “Node is required to setup, build, and run the project.”
-
-### Office 365 Developer tools installaed:
-See https://docs.microsoft.com/da-dk/sharepoint/dev/spfx/set-up-your-development-environment
-- Følg guiden for at installer NodeJS og SharePoint Yeoman Generator
-
+- Office 365 developer tools, følge denne guide <https://docs.microsoft.com/da-dk/sharepoint/dev/spfx/set-up-your-development-environment> for at installer NodeJS og SharePoint Yeoman Generator.
 - [SharePoint Yeoman Generator](https://www.npmjs.com/package/@microsoft/generator-sharepoint): (Version 1.9.1): The SharePoint Yeoman Generator is used to create the SPFX webparts.
   - Installers via kommandoen: 
     npm install -g @microsoft/generator-sharepoint
