@@ -29,3 +29,5 @@ Here you find the demos, hands-on labs and presentations from our event in the D
 ### Disclaimer
 
 THIS CODE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
+## Survey link
+https://aka.ms/Microsoft365DevBootcampSurvey2019
